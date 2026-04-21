@@ -1,13 +1,13 @@
 # LNER Disorder Prediction
 
-Group 3 - Module 5DATA002W - University of Westminster
+Group 3 - Module 5DATA002W.2 - University of Westminster
 
 ---
 
 ## Team
 
 - Saima - Weather dataset, Linear regression
-- Anisa - Data preparation, Visualizations
+- Anisa - Data preparation, Visualisations
 - Muhammad - Crime dataset, Classification model
 - Vihara - Football dataset, Decision tree, GitHub
 
