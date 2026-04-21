@@ -1,6 +1,6 @@
 # LNER Disorder Prediction
 
-Group 3 - Module 5DATA002W.2 - University of Westminster
+Group 3 - Module 5DATA002W - University of Westminster
 
 ---
 
