@@ -1,0 +1,362 @@
+stadium_name,stadium_city,stadium_lat,stadium_lon,stadium_capacity,nearest_lner_station,estimated_attendance
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,53422
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,53125
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,53125
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,14662
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,14662
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,59375
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,16387
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,51598
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,53125
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,25160
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,28120
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,8802
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,51598
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,14662
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,59375
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,18652
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,27242
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,59375
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,24211
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,14662
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,53125
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,25160
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,8802
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,18652
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,53125
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,14662
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,18652
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,27242
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,44459
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,21663
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,25160
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,27242
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,8802
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,25160
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,62850
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,24211
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,40341
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,8802
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,28120
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,25486
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,9320
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,26640
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,56565
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,56250
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,57668
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,22937
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,15525
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,36306
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Kenilworth Road,Luton,51.8844,-0.4317,10356,Kings Cross London,8802
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,19749
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,60704
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,34289
+Selhurst Park,London,51.3983,-0.0854,25486,Kings Cross London,24211
+London Stadium,London,51.5386,-0.0163,62500,Kings Cross London,62500
+Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,Kings Cross London,59707
+Craven Cottage,London,51.4749,-0.2217,29600,Kings Cross London,29600
+Stamford Bridge,London,51.4817,-0.191,40341,Kings Cross London,38323
+Gtech Community Stadium,London,51.4908,-0.2887,17250,Kings Cross London,17250
+St James' Park,Newcastle,54.9756,-1.6217,52305,Newcastle Central,47074
+Bramall Lane,Sheffield,53.3704,-1.4709,32050,Doncaster,28845
+Emirates Stadium,London,51.5549,-0.1084,60704,Kings Cross London,54633
+Turf Moor,Burnley,53.7889,-2.2302,21944,Leeds,18652
